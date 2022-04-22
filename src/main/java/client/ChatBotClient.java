@@ -4,6 +4,7 @@ import java.io.*;
 import java.net.ConnectException;
 import java.net.Socket;
 
+
 public class ChatBotClient {
 
     final private String IP;
